@@ -1,0 +1,10 @@
+body{
+    background-color: #323232;
+}
+
+div{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    opacity: 0.6;
+}
